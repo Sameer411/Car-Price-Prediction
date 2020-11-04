@@ -1,5 +1,5 @@
 # Car-Price-Prediction
-Machine Learning Project for Selling price prediction of Car.
+Machine Learning Project for Predicting Selling price of Car.
 
 # How to execute 
 1) Download Anaconda and Project 
