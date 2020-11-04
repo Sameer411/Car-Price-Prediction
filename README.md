@@ -14,4 +14,14 @@ Machine Learning Project for Selling price prediction of Car.
 2) Anaconda
 3) Spyder IDE
 
-# Images
+# Dataset 
+1) File Location: Car Price Prediction/CAR DETAILS FROM CAR DEKHO.csv 
+2) Kaggle Link https://www.kaggle.com/nehalbirla/vehicle-dataset-from-cardekho
+
+# Front End File 
+Location: Car Price Prediction/templates/index.html 
+
+# Machine Learning Code Location
+Car Price Prediction/CarPricePrediction.ipynb
+
+To Instsall all the requirements Run requirements.txt file 
