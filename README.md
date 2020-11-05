@@ -7,7 +7,7 @@ Machine Learning Project for Predicting Selling price of Car.
 3) Using cd command navigate to project location
 4) Run app.py File Using python app.py
 5) Open browser and search http://127.0.0.1:5000
-6) Enter the requiired Details and you will Get Your Output
+6) Enter the required Details and you will Get Your Output
 
 # Sotwares Used
 1) Google Colab
