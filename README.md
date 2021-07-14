@@ -1,5 +1,5 @@
 # Car-Price-Prediction
-Machine Learning Project for Predicting Selling price of Car.
+Second Hand Car Cost Price Prediction. Project is completed using Machine Learning.
 
 # How to execute 
 1) Download Anaconda and Project 
@@ -9,7 +9,7 @@ Machine Learning Project for Predicting Selling price of Car.
 5) Open browser and search http://127.0.0.1:5000
 6) Enter the required Details and you will Get Your Output
 
-# Sotwares Used
+# Platforms Used
 1) Google Colab
 2) Anaconda
 3) Spyder IDE
