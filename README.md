@@ -1,5 +1,5 @@
 # Car-Price-Prediction
-Second Hand Car Cost Price Prediction. Project is completed using Machine Learning.
+Second Hand Car Cost Price Prediction. Project is completed using Machine Learning. Project backend Python Notebook Conneted with Html file using Anaconda
 
 # How to execute 
 1) Download Anaconda and Project 
